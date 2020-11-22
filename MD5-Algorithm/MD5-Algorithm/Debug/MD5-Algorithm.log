@@ -1,0 +1,6 @@
+﻿  main.c
+E:\Github\MD5-Algorithm\MD5-Algorithm\md5.h(178,16): warning C4018: “>”: 有符号/无符号不匹配
+E:\Github\MD5-Algorithm\MD5-Algorithm\md5.h(182,18): warning C4018: “<”: 有符号/无符号不匹配
+E:\Github\MD5-Algorithm\MD5-Algorithm\md5.h(184,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Github\MD5-Algorithm\MD5-Algorithm\main.c(89,40): warning C4020: “HMAC”: 实参太多
+  MD5-Algorithm.vcxproj -> E:\Github\MD5-Algorithm\Debug\MD5-Algorithm.exe

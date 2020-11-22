@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MD5-Algorithm", "MD5-Algorithm\MD5-Algorithm.vcxproj", "{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Debug|x64.ActiveCfg = Debug|x64
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Debug|x64.Build.0 = Debug|x64
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Debug|x86.Build.0 = Debug|Win32
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Release|x64.ActiveCfg = Release|x64
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Release|x64.Build.0 = Release|x64
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Release|x86.ActiveCfg = Release|Win32
+		{BE9223B8-DE90-43FC-A1DF-3C30D1A09579}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F71850-DF62-49A2-BB91-3B43F21735C5}
+	EndGlobalSection
+EndGlobal
